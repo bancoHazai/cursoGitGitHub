@@ -4,3 +4,5 @@ cd - entra no diretório desejado. Ex "cd Desktop"
 pwd - caminho absoluto de onde está: "/c/Users"
 cd .. - volta para o diretório anterior
 mkdir - cria pastas 
+cat nome do arquivo - abre o arquivo
+rm -rf .git - exclui a pasta oculta do diretorio do git na maquina.
