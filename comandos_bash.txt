@@ -16,5 +16,5 @@ rm -rf .git - exclui a pasta oculta do diretorio do git na maquina, remove de fo
 6. git status
 7. git commit -m "mensagem de identif do commit, tipo comentario do commit"
 8. git status 
-9. volta ao passo 3
+9. volta ao passo 3......
 
