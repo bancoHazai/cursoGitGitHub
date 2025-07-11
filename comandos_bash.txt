@@ -6,3 +6,15 @@ cd .. - volta para o diretório anterior
 mkdir - cria pastas 
 cat nome do arquivo - abre o arquivo
 rm -rf .git - exclui a pasta oculta do diretorio do git na maquina, remove de forma recursiva e forçada todos os diretorios
+
+##Fluxo de trabalho
+1. criar diretório(pasta) do projeto
+2. iniciar git dentro do diretorio criado(git init .)
+3. editar ou criar arquivos
+4. git status
+5. git add <nomedoArquivo>
+6. git status
+7. git commit -m "mensagem de identif do commit, tipo comentario do commit"
+8. git status 
+9. volta ao passo 3
+
