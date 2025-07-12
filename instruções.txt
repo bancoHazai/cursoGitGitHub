@@ -9,4 +9,6 @@ rm -rf .git - exclui a pasta oculta do diretorio do git na maquina.
 git add . - adiciona para o proximo commit todo o diretorio atual
 git add * - adiciona tudo que tiver na pasta no prox commit.
 git checkout nomedabranch - muda de branch
+git checkout -b nome da nova branch - cria nova branch
 git merge <nome da segunda branch>
+head é o commit atual, estado atual do arquivo
