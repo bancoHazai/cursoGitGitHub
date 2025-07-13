@@ -12,3 +12,6 @@ git checkout nomedabranch - muda de branch
 git checkout -b nome da nova branch - cria nova branch
 git merge <nome da segunda branch>
 head é o commit atual, estado atual do arquivo
+git push origin main - para fazer um push ao repositorio remoto principal main.
+git origin <nome da branch> - fazer push para uma nova branch definindo o nome.
+fork - copiar um diretorio inteiro para o seu usuario.
